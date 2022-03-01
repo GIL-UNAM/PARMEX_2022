@@ -1,6 +1,13 @@
-# ParMex
+# PARMEX 2022
+## PARAPHRASE IDENTIFICATION IN MEXICAN SPANISH
 
-### Distribución del corpus de entrenamiento
+### Task Description
+In this task participants will be given pairs of sentences and the aim is to indicate whether each pair captures a paraphrase relationship, i.e. to classify them as paraphrases (P) or not paraphrases (NP).
+
+Full task details [here](https://sites.google.com/view/par-mex/home).
+
+### Corpus de entrenamiento
+La distribución del corpus de entrenamiento se muestra en la siguiente tabla:
 
 | Corpus | Núm. pares de oraciones en total | Núm. pares de oraciones paráfrasis | Núm. pares de oraciones no paráfrasis 
 | --- | --- | --- | --- |
