@@ -6,13 +6,13 @@ In this task participants will be given pairs of sentences and the aim is to ind
 
 Full task details [here](https://sites.google.com/view/par-mex/home).
 
-### Corpus de entrenamiento
-La distribución del corpus de entrenamiento se muestra en la siguiente tabla:
+### Corpus
+The distribution of the corpus is shown in the following table:
 
-| Corpus | Núm. pares de oraciones en total | Núm. pares de oraciones paráfrasis | Núm. pares de oraciones no paráfrasis 
+| Corpus | Total sentence-pairs | Paraphrase sentence-pairs | Non-paraphrase sentence-pairs 
 | --- | --- | --- | --- |
-| Entrenamiento | 7601 (100%) | 1501 (20%) | 6100 (80%) | 
+| Training | 7601 (100%) | 1501 (20%) | 6100 (80%) | 
 
-Las etiquetas de los pares de oraciones son:
- * 1: paráfrais
- * 0: no paráfrasis
+The labels for each sentence-pair are the following:
+ * 1: Paraphrase (P)
+ * 0: Non-paraphrase (NP)
