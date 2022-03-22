@@ -11,7 +11,8 @@ The distribution of the corpus is shown in the following table:
 
 | Corpus | Total sentence-pairs | Paraphrase sentence-pairs | Non-paraphrase sentence-pairs 
 | --- | --- | --- | --- |
-| Training | 7601 (100%) | 1501 (20%) | 6100 (80%) | 
+| Training | 7601 (100%) | 1501 (20%) | 6100 (80%) |
+| Validation | 100 (100%) | 23 (23%) | 77 (77%) |
 
 The labels for each sentence-pair are the following:
  * 1: Paraphrase (P)
