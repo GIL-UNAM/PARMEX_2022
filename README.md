@@ -1,6 +1,11 @@
 # PARMEX 2022
 ## PARAPHRASE IDENTIFICATION IN MEXICAN SPANISH
 
+### IMPORTANT
+Due to a problem we found in the script we used to separate the paraphrased sentences into training, validation, and testing all datasets were updated, so you will need to train again the models and then perform the predictions on the new development and test sets.
+
+Check our codalab page [HERE](https://codalab.lisn.upsaclay.fr/competitions/2345).
+
 ### Task Description
 In this task participants will be given pairs of sentences and the aim is to indicate whether each pair captures a paraphrase relationship, i.e. to classify them as paraphrases (P) or not paraphrases (NP).
 
